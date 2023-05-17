@@ -1,0 +1,16 @@
+README.md
+setup.py
+trainee_reference/__init__.py
+trainee_reference/apps.py
+trainee_reference/asgi.py
+trainee_reference/reference_model_configs.py
+trainee_reference/settings.py
+trainee_reference/urls.py
+trainee_reference/wsgi.py
+trainee_reference.egg-info/PKG-INFO
+trainee_reference.egg-info/SOURCES.txt
+trainee_reference.egg-info/dependency_links.txt
+trainee_reference.egg-info/not-zip-safe
+trainee_reference.egg-info/top_level.txt
+trainee_reference/tests/__init__.py
+trainee_reference/tests/test_reference.py
